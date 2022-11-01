@@ -1,0 +1,31 @@
+body {
+    background-color: #3C3C48;
+}
+
+.refresh {
+    font-size: 10rem;
+    text-align: center;
+    font-family: 'Lobster', sans-serif;
+    color: #67D7A3;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.player-container {
+    font-size: 1.8rem;
+    text-align: center;
+}
+.player-text {
+    display: inline-block;
+    /* padding: 3% 14% 0% 3%; */
+    margin: 0% 10% 0% 10%;
+    color: #67D7A3;
+}
+
+.img {
+    text-align: center;
+}
+.img-dice {
+    width: 20%;
+    margin: 3% 7%;
+}
